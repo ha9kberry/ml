@@ -1,0 +1,34 @@
+
+
+BsmtQual    地下室の高さ       37
+BsmtCond     地下室の一般的な状態      37
+BsmtExposure   ウォークアウトまたはガーデンレベルの地下の壁    38
+BsmtFinType1    基盤完成品の品質   37
+BsmtFinSF1    完成した1平方フィートのタイプ1      0
+BsmtFinType2    2番目の完成した領域の品質（存在する場合）   38
+
+
+
+FireplaceQu  暖炉の質     690
+GarageType    ガレージの場所     81
+GarageYrBlt    年のガレージが建設された    81
+GarageFinish    ガレージの内部仕上げ   81
+
+GarageQual    ガレージの品質     81
+GarageCond      ガレージコンディション   81
+
+
+
+PoolQC（プールの品質）           1453
+Fence （フェンスの品質）           1179
+MiscFeature（その他の機能の値）
+
+
+
+
+
+
+Index([‘SalePrice’, ‘OverallQual’, ‘GrLivArea’, ‘GarageCars’, ‘GarageArea’,
+      ‘TotalBsmtSF’, ‘1stFlrSF’, ‘FullBath’, ‘TotRmsAbvGrd’, ‘YearBuilt’],
+     dtype=‘object’)
+
